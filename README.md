@@ -427,6 +427,9 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
 
+#### [Distrowatch.com](https://distrowatch.com)
+> DistroWatch is a website dedicated to talking about, reviewing and keeping up to date with open source operating systems. This site particularly focuses on Linux distributions and flavours of BSD, though other open source operating systems are sometimes discussed.
+
 ## License
 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.
